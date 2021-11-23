@@ -1,0 +1,14 @@
+
+How to run:
+
+use "docker-compose up -d" in this directory to fetch from Docker Hub
+
+Or open each microsservice mannual (npm start and/or npm install if the NodeJS version needs to recompile - but delete de node_modules first before npm install)
+
+The open localhost:8333 for main page
+Or localhost:8042/crud for DBs
+
+docker-compose down -> stop and eliminates
+
+
+
